@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'root',
-	'database' => 'foot',
+	'hostname' => 'mysql-sandyrtd.alwaysdata.net',
+	'username' => 'sandyrtd_alefa',
+	'password' => 'qwertyOP123456!',
+	'database' => 'sandyrtd_alefa',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
